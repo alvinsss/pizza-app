@@ -3,6 +3,11 @@
     <div class="container">
       <app-header></app-header>
     </div>
+
+    <div class="container">
+      <router-view></router-view>
+    </div>
+
   </div>
 </template>
 
